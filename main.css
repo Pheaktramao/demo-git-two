@@ -1,0 +1,11 @@
+*{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h3{
+    color: teal;
+}
+p{
+    border: 1px solid hotpink;
+}
